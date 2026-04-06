@@ -1,1 +1,1 @@
-add_lunch_combo omni_sm_t536-eng
+add_lunch_combo lineage_gtanotexl-eng
