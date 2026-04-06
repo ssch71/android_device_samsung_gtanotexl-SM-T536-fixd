@@ -37,5 +37,3 @@
 /dev/block/platform/13540000.dwmmc0/by-name/PERSDATA       /persdata       ext4    default         recoveryonly
 /dev/block/platform/13540000.dwmmc0/by-name/HIDDEN         /preload       ext4    default         recoveryonly
 /dev/block/platform/13540000.dwmmc0/by-name/CPEFS          /cpefs          ext4    default         recoveryonly
-/dev/block/platform/13540000.dwmmc0/by-name/SYSTEM  /system  ext4  defaults  recoveryonly
-
